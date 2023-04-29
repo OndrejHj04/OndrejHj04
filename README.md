@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+	<h1>Hi 👋, I am Ondřej Hájek</h1>
+	<p>but you can call me <b>Ohaacko</b></p>
+</div>
 
 <!--
 **OndrejHj04/OndrejHj04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
