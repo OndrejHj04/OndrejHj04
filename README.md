@@ -1,4 +1,4 @@
-<img src="https://github.com/OndrejHj04/OndrejHj04/assets/89454851/a9ef0e04-4918-4488-8688-afb7907581d8"/>
+<img src="https://github.com/OndrejHj04/OndrejHj04/assets/89454851/c82a8270-927d-479a-89a0-228e13f7fc94"/>
 <h2>My brief technical introduction</h2>
 
 <div align="center">
