@@ -1,5 +1,9 @@
-<img src="https://github.com/OndrejHj04/OndrejHj04/assets/89454851/c82a8270-927d-479a-89a0-228e13f7fc94"/>
-<h2>My brief technical introduction</h2>
+<div align="center">
+    <img src="https://github.com/OndrejHj04/OndrejHj04/assets/89454851/18c55c1d-917d-4beb-bdd9-06479ac4d9ad"/>
+</div>
+
+<h2>My brief tec!hnical introduction</h2>
+
 
 <div align="center">
     <img  width="51%" src="https://github-readme-stats.vercel.app/api?username=OndrejHj04&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=15242d" /> 
