@@ -1,8 +1,12 @@
+
+
 <div align="center">
-    <img src="https://github.com/OndrejHj04/OndrejHj04/assets/89454851/18c55c1d-917d-4beb-bdd9-06479ac4d9ad"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&repeat=false&duration=3000&pause=1000&color=5BCDEC&background=00000000&center=true&vCenter=true&width=435&lines=Hi%2C+my+name+is+Ond%C5%99ej+H%C3%A1jek">
+        <img src="https://github.com/OndrejHj04/OndrejHj04/assets/89454851/18c55c1d-917d-4beb-bdd9-06479ac4d9ad"/>
+    </img>
 </div>
 
-<h2>My brief tec!hnical introduction</h2>
+<h2>My brief technical introduction</h2>
 
 
 <div align="center">
