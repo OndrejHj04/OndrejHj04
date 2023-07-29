@@ -1,1 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OndrejHj04)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OndrejHj04&show_icons=true&count_private=true&hide_border=true&title_color=8eff61&icon_color=8eff61&text_color=c9d1d9&bg_color=00000000" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OndrejHj04&layout=compact&hide_border=true&title_color=8eff61&text_color=8eff61&bg_color=00000000" />
+</div>
