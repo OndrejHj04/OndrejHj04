@@ -4,14 +4,14 @@
     </div>
     
 ```typescript
-    const me: {name: string, age: number, nationality: string, languages: languages[], sports: sports[], job: any} = {
-          name: "Ondřej Hájek",
-          age: 18,
-          nationality: "Czech",
-          languages: ["Czech", "English", "German"],
-          sports: ["Football", "Swimming", "Darts"],
-          job: "FUZE Technology"
-        };
+const me: {name: string, age: number, nationality: string, languages: languages[], sports: sports[], job: any} = {
+    name: "Ondřej Hájek",
+    age: 18,
+    nationality: "Czech",
+    languages: ["Czech", "English", "German"],
+    sports: ["Football", "Swimming", "Darts"],
+    job: "FUZE Technology"
+};
 ```
 <hr />
 </div>
