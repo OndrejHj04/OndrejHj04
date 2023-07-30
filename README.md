@@ -42,4 +42,12 @@ const techstack: {code: string[], tools: string[], favouriteReactLibraries: stri
     <img src="sites.gif"/>
 </div>
 
+```typescript
+const contact: { email: string; linkedin: string, discord: string, steam: string } = {
+  email: "ondrej.hajek.profi@gmail.com",
+  linkedin: "https://www.linkedin.com/in/ond%C5%99ej-h%C3%A1jek-600527206/",
+  discord: "ondrejhj04",
+  steam: "https://steamcommunity.com/profiles/76561198152899592"
+};
+```
 
