@@ -2,6 +2,16 @@
     <img src="intro.gif"/>
 </div>
 
+```typescript
+const Ondrej: {name: string, age: number, nationality: string, languages: languages[], sports: sports[]} = {
+  name: "Ondřej Hájek",
+  age: 18,
+  nationality: "Czech",
+  languages: ["Czech", "English", "German"],
+  sports: ["Football", "Swimming", "Darts"]
+};
+```
+
 <div align="center">
     <img src="techstack.gif"/>
 </div>
