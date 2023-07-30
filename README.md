@@ -3,18 +3,27 @@
 </div>
 
 ```typescript
-const Ondrej: {name: string, age: number, nationality: string, languages: languages[], sports: sports[]} = {
+const me: {name: string, age: number, nationality: string, languages: languages[], sports: sports[], job: any} = {
   name: "Ondřej Hájek",
   age: 18,
   nationality: "Czech",
   languages: ["Czech", "English", "German"],
-  sports: ["Football", "Swimming", "Darts"]
+  sports: ["Football", "Swimming", "Darts"],
+  job: "FUZE Technology"
 };
 ```
 
 <div align="center">
     <img src="techstack.gif"/>
 </div>
+
+```typescript
+const techstack: {code: string[], tools: string[], favouriteReactLibraries: string[]} = {
+  code: ["Javascript", "Typescript", "Python"],
+  tools: ["React", "NextJs", "Tailwind", "Bootstrap", "Express.js"],
+  favouriteReactLibraries: ["Material-UI", "ReactHookForm", "Redux", "Moment.js"]
+}
+```
 
 <div align="center">
     <img src="stats.gif"/>
