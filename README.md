@@ -62,4 +62,3 @@ const contact: { email: string; linkedin: string, discord: string, steam: string
 };
 ```
 <img src="https://repo-list-three.vercel.app/repo"/>
-
