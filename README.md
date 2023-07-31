@@ -61,4 +61,4 @@ const contact: { email: string; linkedin: string, discord: string, steam: string
   steam: "https://steamcommunity.com/profiles/76561198152899592"
 };
 ```
-<img src="https://repo-list-three.vercel.app/repo"/>
+<img src="https://repository-component-ondrejhj04.vercel.app/api?username=OndrejHj04" width="100%" height="500px"/>
