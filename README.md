@@ -46,6 +46,8 @@ const techstack: {code: string[], tools: string[], favouriteReactLibraries: stri
 <div align="center">
     <img src="projects.gif"/>
 </div>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=15242d&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=15242d&hide_border=true"/>
 <hr />
 <div align="center">
 
