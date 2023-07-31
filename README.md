@@ -36,8 +36,8 @@ const techstack: {code: string[], tools: string[], favouriteReactLibraries: stri
 <div>
     <div align="center">
     <img src="stats.gif"/>
-    <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api?username=OndrejHj04&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=00000000" /> 
-    <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OndrejHj04&layout=compact&hide_border=true&title_color=5bcdec&text_color=5bcdec&bg_color=00000000" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=OndrejHj04&show_icons=true&count_private=true&hide_border=true&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=00000000" /> 
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OndrejHj04&layout=compact&hide_border=true&title_color=5bcdec&text_color=5bcdec&bg_color=00000000" />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=OndrejHj04&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
 </div>
     <hr />
@@ -46,8 +46,7 @@ const techstack: {code: string[], tools: string[], favouriteReactLibraries: stri
 <div align="center">
     <img src="projects.gif"/>
 </div>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=15242d&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&title_color=5bcdec&icon_color=5bcdec&text_color=5bcdec&bg_color=15242d&hide_border=true"/>
+<img src="https://repository-component-ondrejhj04.vercel.app/api?username=OndrejHj04&filter=profi" width="100%" height="545px" />
 <hr />
 <div align="center">
 
@@ -63,4 +62,5 @@ const contact: { email: string; linkedin: string, discord: string, steam: string
   steam: "https://steamcommunity.com/profiles/76561198152899592"
 };
 ```
-<img src="https://repository-component-ondrejhj04.vercel.app/api?username=OndrejHj04&filter=profi" width="100%" height="500px"/>
+
+<!--- <img src="https://repository-component-ondrejhj04.vercel.app/api?username=OndrejHj04&filter=profi" width="100%" height="500px"/> --->
