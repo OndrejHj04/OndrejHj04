@@ -46,7 +46,6 @@ const techstack: {code: string[], tools: string[], favouriteReactLibraries: stri
 <div align="center">
     <img src="projects.gif"/>
 </div>
-<img src="https://repository-component-ondrejhj04.vercel.app/api?username=OndrejHj04&filter=profi" width="100%" height="545px" />
 <hr />
 <div align="center">
 
