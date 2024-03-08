@@ -6,7 +6,7 @@
 ```typescript
 const me: {name: string, age: number, nationality: string, languages: languages[], sports: sports[], job: any} = {
     name: "Ondřej Hájek",
-    age: 18,
+    age: 19,
     nationality: "Czech",
     languages: ["Czech", "English", "German"],
     sports: ["Football", "Swimming", "Darts"],
