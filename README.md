@@ -4,13 +4,11 @@
     </div>
     
 ```typescript
-const me: {name: string, age: number, nationality: string, languages: languages[], sports: sports[], job: any} = {
+const me: {name: string, age: number, nationality: string, languages: languages[]} = {
     name: "Ondřej Hájek",
-    age: 19,
+    age: 20,
     nationality: "Czech",
     languages: ["Czech", "English", "German"],
-    sports: ["Football", "Swimming", "Darts"],
-    job: "FUZE Technology"
 };
 ```
 <hr />
@@ -23,9 +21,9 @@ const me: {name: string, age: number, nationality: string, languages: languages[
 
 ```typescript
 const techstack: {code: string[], tools: string[], favouriteReactLibraries: string[]} = {
-  code: ["Javascript", "Typescript", "Python"],
-  tools: ["React", "NextJs", "Tailwind", "Bootstrap", "Express.js"],
-  favouriteReactLibraries: ["Material-UI", "ReactHookForm", "Redux", "Moment.js"]
+  code: ["Javascript", "Typescript", "Python", "SQL"],
+  tools: ["React", "NextJs", "Tailwind"],
+  favouriteReactLibraries: ["Material-UI", "ReactHookForm", "Redux", "Zustand"]
 }
 ```
 
